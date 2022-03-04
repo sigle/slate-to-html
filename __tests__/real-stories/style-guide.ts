@@ -1,4 +1,4 @@
-import { generateHtml } from '../src';
+import { generateHtml } from '../../src';
 
 const story = {
   object: 'value',
@@ -701,6 +701,6 @@ const story = {
   },
 };
 
-test('test', () => {
+it('render style guide story', () => {
   expect(generateHtml(story)).toMatchSnapshot();
 });
