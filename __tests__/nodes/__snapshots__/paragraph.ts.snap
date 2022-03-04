@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`merge slate < 0.46 text with mark 1`] = `"<p>Of course, you can edit your text at any moment and make it <strong>bold</strong>, <em>italic</em> or <u>underlined</u>.</p>"`;
+
+exports[`render all marks text 1`] = `"<p>Hello <u><em><strong>bold, italic, underlined</strong></em></u> hello</p>"`;
+
+exports[`render bold text 1`] = `"<p>Hello <strong>bold</strong> hello</p>"`;
+
+exports[`render code text 1`] = `"<p>Hello <code>code</code> hello</p>"`;
+
+exports[`render italic text 1`] = `"<p>Hello <em>italic</em> hello</p>"`;
+
+exports[`render slate < 0.46 text 1`] = `"<p>Hello</p>"`;
+
+exports[`render text 1`] = `"<p>Hello</p>"`;
+
+exports[`render underlined text 1`] = `"<p>Hello <u>underlined</u> hello</p>"`;

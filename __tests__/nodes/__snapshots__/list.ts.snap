@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render bullet list 1`] = `"<ul><li>List item 1</li><li>List item 2</li></ul>"`;
+
+exports[`render numbered list 1`] = `"<ol><li>List item 1</li><li>List item 2</li></ol>"`;
