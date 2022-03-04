@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render link 1`] = `"<p><a href=\\"https://www.sigle.io\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\">sigle</a></p>"`;
