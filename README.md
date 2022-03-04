@@ -7,9 +7,9 @@ This package converts a Slate 0.47 JSON representation to HTML.
 ```ts
 import { generateHtml } from '@sigle/slate-to-html';
 
-const slateJSON = [
+const slateJSON = {
   // ... Slate Sigle JSON
-];
+};
 
 const html = generateHtml(slateJSON);
 ```
