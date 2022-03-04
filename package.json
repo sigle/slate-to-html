@@ -1,6 +1,6 @@
 {
   "name": "@sigle/slate-to-html",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This package converts a Slate 0.47 JSON representation to HTML.",
   "main": "lib/index.js",
   "module": "./lib/index.js",
